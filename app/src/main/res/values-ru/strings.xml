@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Shop Tracker</string>
+    <string name="store_part_uid">storePartUid</string>
+    <string name="query_params">Параметры запроса</string>
+    <string name="tracking_mosmetroshop">Отслеживаю магаз</string>
+    <string name="post_notifications_permission_granted">Разрешение на уведомления предоставлено</string>
+    <string name="post_notifications_permission_declined">Разрешение на уведомления отклонено</string>
+    <string name="post_notifications_permissions_required">Для отправки уведомлений необходимо разрешение</string>
+    <string name="new_product_info">%1$s. Осталось %2$s шт.</string>
+    <string name="new_product_available">Что-то новое</string>
+    <string name="stop_service">Остановить сервис</string>
+    <string name="start_service">Запустить сервис</string>
+    <string name="number_of_pieces_left">Осталось %1$s шт.</string>
+    <string name="new_items">%1$s новых позиций</string>
+    <string name="history">История</string>
+    <string name="settings">Настройки</string>
+    <string name="polling_interval">Интервал опроса</string>
+    <string name="storepartuid_is_null">storePartUid пуст</string>
+    <string name="quantity">Количество</string>
+    <string name="seconds">сек</string>
+    <string name="minutes">мин</string>
+    <string name="hours">ч</string>
+    <string name="days">дн</string>
+    <string name="auto_start">Автозапуск</string>
+    <string name="schedule_exact_alarm_permission_granted">Разрешение на точное планирование будильника предоставлено</string>
+    <string name="schedule_exact_alarm_permission_declined">Разрешение на точное планирование будильника отклонено</string>
+    <string name="schedule_exact_alarm_permission_required">Для точного планирования будильника требуется разрешение</string>
+    <string name="ok">Пон</string>
+</resources>
